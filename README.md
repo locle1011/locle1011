@@ -3,7 +3,7 @@
 I'm Loc, an undergraduate student of Ho Chi Minh University of Technology. I'm studying in Computer Science department and trying my best not to fail any subjects :satisfied:. Here is my [CV](cv).
 
 - :seedling: I'm currently learning about AI/ML/DL.
-- :e-mail: You can contact me via [![Facebook][fb]](fblink) or [![Gmail][mail]](mailAddress).
+- :e-mail: You can contact me via [![Facebook][fb]](https://www.facebook.com/loc.le1011) or [![Gmail][mail]](mailAddress).
 - :goal_net: 2021 goal:
   - Complete some AI/ML/DL projects by myself :muscle:.
 
