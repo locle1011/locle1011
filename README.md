@@ -42,9 +42,9 @@ I'm Loc, an undergraduate student of Ho Chi Minh University of Technology. I'm s
 
 <!-- link to social media account -->
 
-[fblink]: https://fb.me/loc.le1011
+[fblink]: https://www.facebook.com/loc.le1011
 [mailaddress]: loc.le1011@hcmut.edu.vn
-[cv]: https://i.topcv.vn/letanloc?ref=4370079
+[cv]: https://www.topcv.vn/xem-cv/DQRWVAsBAAVTUVNUDwAEB1tSV11UW1RRUV8GAQff67?utm_source=link_i_topcv&utm_campaign=link_i_topcv&utm_medium=link_i_topcv
 
 <!-- Icon links -->
 
