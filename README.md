@@ -1,9 +1,9 @@
 ### Hi there <img src="assets/wave.gif" width="30px">
 
-I'm Loc, an undergraduate student of Ho Chi Minh University of Technology. I'm studying in Computer Science department and trying my best not to fail any subjects :satisfied:. Here is my [CV](cv).
+I'm Loc, an undergraduate student of Ho Chi Minh University of Technology. I'm studying in Computer Science department and trying my best not to fail any subjects :satisfied:. Here is my [CV](https://www.topcv.vn/xem-cv/DQRWVAsBAAVTUVNUDwAEB1tSV11UW1RRUV8GAQff67?utm_source=link_i_topcv&utm_campaign=link_i_topcv&utm_medium=link_i_topcv).
 
 - :seedling: I'm currently learning about AI/ML/DL.
-- :e-mail: You can contact me via [![Facebook][fb]](https://www.facebook.com/loc.le1011) or [![Gmail][mail]](mailAddress).
+- :e-mail: You can contact me via [![Facebook][fb]](https://www.facebook.com/loc.le1011) or [![Gmail][mail]](loc.le1011@hcmut.edu.vn).
 - :goal_net: 2021 goal:
   - Complete some AI/ML/DL projects by myself :muscle:.
 
@@ -41,10 +41,6 @@ I'm Loc, an undergraduate student of Ho Chi Minh University of Technology. I'm s
 [mail]: assets/mail-inbox-app.png
 
 <!-- link to social media account -->
-
-[fblink]: https://www.facebook.com/loc.le1011
-[mailaddress]: loc.le1011@hcmut.edu.vn
-[cv]: https://www.topcv.vn/xem-cv/DQRWVAsBAAVTUVNUDwAEB1tSV11UW1RRUV8GAQff67?utm_source=link_i_topcv&utm_campaign=link_i_topcv&utm_medium=link_i_topcv
 
 <!-- Icon links -->
 
