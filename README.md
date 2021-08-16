@@ -22,13 +22,13 @@ I'm Loc, an undergraduate student of Ho Chi Minh University of Technology. I'm s
 
 ![Ubuntu][ubuntu] ![Docker][docker] ![MySQL][mysql] ![Java][java] ![Javascript][js]
 
-:computer: My profile on programing platforms:
+<!-- :computer: My profile on programing platforms:
 
 [![DataCamp][datacamp]](https://www.datacamp.com/profile/locle1011)
 [![Leetcode][leetcode]](https://leetcode.com/locle1011)
 [![HackerRank][hackerrank]](https://www.hackerrank.com/loc_le1011)
 [![CodeWars][codewars]](https://www.codewars.com/users/loc.le1011)
-[![GeeksForGeeks][gfg]](https://auth.geeksforgeeks.org/user/locle1011/practice/)
+[![GeeksForGeeks][gfg]](https://auth.geeksforgeeks.org/user/locle1011/practice/) -->
 
 <!-- ## &#x1f4c8; GitHub Stats
 
