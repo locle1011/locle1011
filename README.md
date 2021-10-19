@@ -8,9 +8,9 @@ I'm Loc, an undergraduate student of Ho Chi Minh University of Technology. I'm s
 - :goal_net: 2021 goal:
   - Complete some AI/ML/DL projects by myself :muscle:.
 
-## :wrench: Technologies and tools
+## :toolbox: Technologies and tools
 
-:heavy_check_mark: Things i've already learned:
+:heavy_check_mark: General skills:
 
 - Programming: ![C][c] ![C++][cpp] ![Python][py] ![R][r] ![MATLAB][m]
 - IDE and text editor: ![VScode][vsc] ![VS][vs] ![RStudio][rstudio] ![PyCharm][pych]
@@ -45,7 +45,7 @@ I'm Loc, an undergraduate student of Ho Chi Minh University of Technology. I'm s
 
 [cv]: https://i.topcv.vn/letanloc?ref=4370079
 [fbLink]: https://fb.me/loc.le1011/
-[mailAddress]: mailto:loc.le1011@hcmut.edu.vn
+[mailAddress]: mailto:letanloc.workOnly@gmail.com
 
 <!-- Icon links -->
 
@@ -89,3 +89,18 @@ I'm Loc, an undergraduate student of Ho Chi Minh University of Technology. I'm s
 [leetcode]: https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black
 [codewars]: https://img.shields.io/badge/-CodeWars-B1361E?style=flat&logo=codewars&logoColor=white
 [gfg]: https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white
+
+<!-- AI and data analysis tools -->
+[keras]: https://img.shields.io/badge/-Keras-white?style=flat&logo=keras&logoColor=d00000
+[tensorflow]: https://img.shields.io/badge/-TensorFlow-white?style=flat&logo=tensorflow&logoColor=ff6f00
+[scikitlearn]: https://img.shields.io/badge/-scikit--learn-f7931e?style=flat&logo=scikitlearn&logoColor=f7931e&labelColor=0085ca
+[pytorch]: https://img.shields.io/badge/-PyTorch-white?style=flat&logo=pytorch&logoColor=ee4c2c
+[numpy]: https://img.shields.io/badge/-NumPy-324ab2?style=flat&logo=numpy&logoColor=white
+[pandas]: https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white
+[scipy]: https://img.shields.io/badge/-SciPy-004088?style=flat&logo=scipy&logoColor=white
+[ggcloud]: https://img.shields.io/badge/-Google%20Cloud%20AI%20Platform-4285F4?style=flat&logo=googlecloud&logoColor=white
+[ggcolab]: https://img.shields.io/badge/-Google%20Colab-white?style=flat&logo=googlecolab&logoColor=F9AB00
+[flask]: https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white
+[django]: https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white
+[opencv]: https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white
+[nltk]: https://img.shields.io/badge/-NLTK-white?style=flat
